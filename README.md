@@ -1,6 +1,6 @@
 # Experiment--05-4X4-keypad-interface-with-LPC2148
 
-Name : Gunaseelan G
+Name : Javith Farkhan
 
 Roll no : 212221240017
 
